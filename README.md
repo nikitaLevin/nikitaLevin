@@ -32,13 +32,9 @@ Full-Stack Developer based in Tel Aviv with 4 years of experience building scala
 
 **[My Portfolio](https://github.com/nikitaLevin/my-portfolio)** — Personal portfolio website built with React and Chakra UI
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaLevin&show_icons=true&theme=dark&hide_border=true)
-
 ## 💼 Open to Work
 
-Currently looking for **Full-Stack**, **Backend**, or **Frontend** developer roles in **Israel (Tel Aviv area)**.
+Currently looking for **Full-Stack**, **Backend**, or **Frontend** developer roles in **Israel (Central area)**.
 
 ## 🔗 Contact
 
