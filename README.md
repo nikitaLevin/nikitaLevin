@@ -34,7 +34,7 @@ Full-Stack Developer based in Tel Aviv with 4 years of experience building scala
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaLevin&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaLevin&show_icons=true&theme=dark&hide_border=true)
 
 ## 💼 Open to Work
 
