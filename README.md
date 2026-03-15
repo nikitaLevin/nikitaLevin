@@ -38,6 +38,8 @@ Currently looking for **Full-Stack**, **Backend**, or **Frontend** developer rol
 
 ## 🔗 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikitalevin.github.io-blue?style=flat&logo=github)](https://nikitalevin.github.io/my-portfolio/)
+
 [![Email](https://img.shields.io/badge/Email-levin.nikitaa@gmail.com-blue?style=flat&logo=gmail)](mailto:levin.nikitaa@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Levin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hi-tech-nikita-levin/)
