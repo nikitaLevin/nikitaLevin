@@ -20,6 +20,8 @@ Full-Stack Developer based in Tel Aviv with 4 years of experience building scala
 
 ## 🚀 Projects
 
+**[Job Tracker](https://github.com/nikitaLevin/job-tracker)** — Chrome extension for tracking job applications — save jobs from LinkedIn, manage statuses and track interview rate
+
 **[Mr. Donald's Burger Shop](https://github.com/nikitaLevin/mr-donalds-burger-shop)** — Food ordering React app with cart, toppings and item customization
 
 **[3Glo Landing](https://github.com/nikitaLevin/3dglo-landing)** — Landing page for a 3D modeling studio with cost calculator and portfolio carousel
