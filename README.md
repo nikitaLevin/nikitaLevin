@@ -22,6 +22,8 @@ Full-Stack Developer based in Tel Aviv with 4 years of experience building scala
 
 **[Job Tracker](https://github.com/nikitaLevin/job-tracker)** — Chrome extension for tracking job applications — save jobs from LinkedIn, manage statuses and track interview rate
 
+**[Traffic Light Simulator](https://github.com/nikitaLevin/traffic-light-simulator)** — Interactive simulation comparing fixed-timer vs adaptive traffic light algorithms with real-time queue management
+
 **[Mr. Donald's Burger Shop](https://github.com/nikitaLevin/mr-donalds-burger-shop)** — Food ordering React app with cart, toppings and item customization
 
 **[3Glo Landing](https://github.com/nikitaLevin/3dglo-landing)** — Landing page for a 3D modeling studio with cost calculator and portfolio carousel
